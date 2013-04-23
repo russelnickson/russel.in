@@ -1,0 +1,12 @@
+			 			<div class="post quote">
+				<div class="postinfo">
+					<a href="http://links.russel.in/post/2171623622/nothing-is-great-unless-it-is-good" class="type">Quote</a>
+					
+				</div><!-- .postinfo -->
+				<p>Make Every Man a Success and no Man a Failure"</p>
+				<span class="attribution">&#8211; KCG College of Technology</span>
+
+				
+				
+				<br class="clear" />
+			</div><!-- .post -->
